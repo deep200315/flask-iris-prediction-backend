@@ -1,0 +1,26 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+
+# Flask
+instance/
+.webassets-cache
+
+# IDE files
+.vscode/
+.idea/
+
+# Compiled files
+*.pyc
+*.pyo
+*.pyd
+
+# Local development settings
+.env
